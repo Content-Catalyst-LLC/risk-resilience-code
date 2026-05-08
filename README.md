@@ -43,3 +43,4 @@ MIT License.
 - `articles/risk-governance-and-adaptive-institutions/`
 - `articles/early-warning-systems-and-preparedness/`
 - `articles/resilience-governance-accountability-and-public-legitimacy/`
+- `articles/stress-testing-public-institutions/`
