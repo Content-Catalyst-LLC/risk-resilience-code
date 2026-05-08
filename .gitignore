@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Julia
+.julia/
+Manifest.toml
+
+# Rust
+target/
+Cargo.lock
+
+# Go
+bin/
+
+# Data outputs
+*.csv
+*.parquet
+*.xlsx
+*.sqlite
+*.db
+
+# Keep directory placeholders
+!data/**/.gitkeep
+!outputs/**/.gitkeep
+!articles/**/data/**/.gitkeep
+!articles/**/outputs/**/.gitkeep
+
+# System
+.DS_Store
