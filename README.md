@@ -42,3 +42,4 @@ MIT License.
 - `articles/resilience-in-the-age-of-ai-and-automated-systems/`
 - `articles/risk-governance-and-adaptive-institutions/`
 - `articles/early-warning-systems-and-preparedness/`
+- `articles/resilience-governance-accountability-and-public-legitimacy/`
