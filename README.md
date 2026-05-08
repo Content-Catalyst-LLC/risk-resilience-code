@@ -40,3 +40,4 @@ risk-resilience-code/
 MIT License.
 - `articles/digital-twins-sensing-and-infrastructure-resilience/`
 - `articles/resilience-in-the-age-of-ai-and-automated-systems/`
+- `articles/risk-governance-and-adaptive-institutions/`
