@@ -38,3 +38,4 @@ risk-resilience-code/
 ## License
 
 MIT License.
+- `articles/digital-twins-sensing-and-infrastructure-resilience/`
