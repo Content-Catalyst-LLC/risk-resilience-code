@@ -45,3 +45,4 @@ MIT License.
 - `articles/resilience-governance-accountability-and-public-legitimacy/`
 - `articles/stress-testing-public-institutions/`
 - `articles/risk-finance-insurance-and-resilience-investment/`
+- `articles/from-risk-management-to-regenerative-capacity/`
