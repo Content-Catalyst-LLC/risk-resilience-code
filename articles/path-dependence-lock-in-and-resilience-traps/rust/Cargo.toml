@@ -1,0 +1,6 @@
+[package]
+name = "path_dependence_lock_in_checker"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

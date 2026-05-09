@@ -66,3 +66,4 @@ MIT License.
 - `articles/energy-security-grid-fragility-and-resilience/`
 - `articles/clean-drinking-water-desalination-and-water-supply-resilience/`
 - `articles/efficiency-slack-and-resilience-in-system-design/`
+- `articles/path-dependence-lock-in-and-resilience-traps/`
