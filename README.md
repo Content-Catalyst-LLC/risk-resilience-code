@@ -57,3 +57,4 @@ MIT License.
 - `articles/regenerative-resilience-and-the-repair-of-living-systems/`
 - `articles/resilience-justice-and-the-ethics-of-transformation/`
 - `articles/cross-sector-coordination-and-integrated-resilience-governance/`
+- `articles/resilience-strategy-in-public-institutions/`
