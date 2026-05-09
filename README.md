@@ -68,3 +68,4 @@ MIT License.
 - `articles/efficiency-slack-and-resilience-in-system-design/`
 - `articles/path-dependence-lock-in-and-resilience-traps/`
 - `articles/nonlinearity-and-shock-propagation/`
+- `articles/tight-coupling-and-the-logic-of-catastrophic-failure/`
