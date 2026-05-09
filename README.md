@@ -60,3 +60,4 @@ MIT License.
 - `articles/resilience-strategy-in-public-institutions/`
 - `articles/urbanization-informality-and-risk-exposure/`
 - `articles/why-inequality-weakens-resilience/`
+- `articles/risk-poverty-and-development-fragility/`
