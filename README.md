@@ -52,3 +52,4 @@ MIT License.
 - `articles/agent-based-models-network-models-and-systemic-risk/`
 - `articles/resilience-data-provenance-and-auditability/`
 - `articles/polycrisis-systemic-risk-and-the-future-of-resilience-thinking/`
+- `articles/ai-automation-and-resilience-under-algorithmic-governance/`
