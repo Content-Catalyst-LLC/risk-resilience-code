@@ -58,3 +58,4 @@ MIT License.
 - `articles/resilience-justice-and-the-ethics-of-transformation/`
 - `articles/cross-sector-coordination-and-integrated-resilience-governance/`
 - `articles/resilience-strategy-in-public-institutions/`
+- `articles/urbanization-informality-and-risk-exposure/`
