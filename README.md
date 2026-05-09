@@ -62,3 +62,4 @@ MIT License.
 - `articles/why-inequality-weakens-resilience/`
 - `articles/risk-poverty-and-development-fragility/`
 - `articles/environmental-monitoring-as-a-foundation-of-resilience/`
+- `articles/planetary-boundaries-and-global-system-risk/`
