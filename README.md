@@ -49,3 +49,4 @@ MIT License.
 - `articles/resilience-indicators-and-measurement/`
 - `articles/resilience-indicator-dashboards-and-their-blind-spots/`
 - `articles/scenario-matrices-shock-libraries-and-resilience-planning/`
+- `articles/agent-based-models-network-models-and-systemic-risk/`
