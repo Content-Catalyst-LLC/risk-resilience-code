@@ -56,3 +56,4 @@ MIT License.
 - `articles/biodiversity-loss-and-ecological-resilience/`
 - `articles/regenerative-resilience-and-the-repair-of-living-systems/`
 - `articles/resilience-justice-and-the-ethics-of-transformation/`
+- `articles/cross-sector-coordination-and-integrated-resilience-governance/`
