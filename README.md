@@ -47,3 +47,4 @@ MIT License.
 - `articles/risk-finance-insurance-and-resilience-investment/`
 - `articles/from-risk-management-to-regenerative-capacity/`
 - `articles/resilience-indicators-and-measurement/`
+- `articles/resilience-indicator-dashboards-and-their-blind-spots/`

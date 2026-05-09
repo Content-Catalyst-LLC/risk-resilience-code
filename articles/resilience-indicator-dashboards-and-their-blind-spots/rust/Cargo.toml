@@ -1,0 +1,6 @@
+[package]
+name = "resilience_dashboard_blind_spot_checker"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
