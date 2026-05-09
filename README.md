@@ -64,3 +64,4 @@ MIT License.
 - `articles/environmental-monitoring-as-a-foundation-of-resilience/`
 - `articles/planetary-boundaries-and-global-system-risk/`
 - `articles/energy-security-grid-fragility-and-resilience/`
+- `articles/clean-drinking-water-desalination-and-water-supply-resilience/`
