@@ -55,3 +55,4 @@ MIT License.
 - `articles/ai-automation-and-resilience-under-algorithmic-governance/`
 - `articles/biodiversity-loss-and-ecological-resilience/`
 - `articles/regenerative-resilience-and-the-repair-of-living-systems/`
+- `articles/resilience-justice-and-the-ethics-of-transformation/`
