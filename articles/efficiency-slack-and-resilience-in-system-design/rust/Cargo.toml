@@ -1,0 +1,6 @@
+[package]
+name = "efficiency_slack_resilience_checker"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

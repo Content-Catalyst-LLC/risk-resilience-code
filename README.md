@@ -65,3 +65,4 @@ MIT License.
 - `articles/planetary-boundaries-and-global-system-risk/`
 - `articles/energy-security-grid-fragility-and-resilience/`
 - `articles/clean-drinking-water-desalination-and-water-supply-resilience/`
+- `articles/efficiency-slack-and-resilience-in-system-design/`
