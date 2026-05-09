@@ -46,3 +46,4 @@ MIT License.
 - `articles/stress-testing-public-institutions/`
 - `articles/risk-finance-insurance-and-resilience-investment/`
 - `articles/from-risk-management-to-regenerative-capacity/`
+- `articles/resilience-indicators-and-measurement/`
