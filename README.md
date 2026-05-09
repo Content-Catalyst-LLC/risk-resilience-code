@@ -61,3 +61,4 @@ MIT License.
 - `articles/urbanization-informality-and-risk-exposure/`
 - `articles/why-inequality-weakens-resilience/`
 - `articles/risk-poverty-and-development-fragility/`
+- `articles/environmental-monitoring-as-a-foundation-of-resilience/`
