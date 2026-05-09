@@ -53,3 +53,4 @@ MIT License.
 - `articles/resilience-data-provenance-and-auditability/`
 - `articles/polycrisis-systemic-risk-and-the-future-of-resilience-thinking/`
 - `articles/ai-automation-and-resilience-under-algorithmic-governance/`
+- `articles/biodiversity-loss-and-ecological-resilience/`
