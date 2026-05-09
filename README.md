@@ -51,3 +51,4 @@ MIT License.
 - `articles/scenario-matrices-shock-libraries-and-resilience-planning/`
 - `articles/agent-based-models-network-models-and-systemic-risk/`
 - `articles/resilience-data-provenance-and-auditability/`
+- `articles/polycrisis-systemic-risk-and-the-future-of-resilience-thinking/`
