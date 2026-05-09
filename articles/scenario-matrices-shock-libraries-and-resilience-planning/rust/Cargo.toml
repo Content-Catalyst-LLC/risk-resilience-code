@@ -1,0 +1,6 @@
+[package]
+name = "scenario_matrix_shock_library_checker"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

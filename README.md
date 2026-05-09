@@ -48,3 +48,4 @@ MIT License.
 - `articles/from-risk-management-to-regenerative-capacity/`
 - `articles/resilience-indicators-and-measurement/`
 - `articles/resilience-indicator-dashboards-and-their-blind-spots/`
+- `articles/scenario-matrices-shock-libraries-and-resilience-planning/`
